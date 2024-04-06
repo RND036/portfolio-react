@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio-react/static/css/main.e9ae6bd4.css",
+    "main.js": "/portfolio-react/static/js/main.113328b7.js",
+    "static/js/453.f957a195.chunk.js": "/portfolio-react/static/js/453.f957a195.chunk.js",
+    "static/media/react1.png": "/portfolio-react/static/media/react1.48a581c0de08a49a66a4.png",
+    "static/media/background.jpg": "/portfolio-react/static/media/background.9262fc182672fbbf66cb.jpg",
+    "static/media/heading.png": "/portfolio-react/static/media/heading.09e0b0a6c9a4129c831f.png",
+    "static/media/square.png": "/portfolio-react/static/media/square.47249193d960b994d7fe.png",
+    "static/media/social3.png": "/portfolio-react/static/media/social3.0f469b3cf192292b8887.png",
+    "static/media/Java_logo.png": "/portfolio-react/static/media/Java_logo.92dfb52fbaa85d223a66.png",
+    "static/media/social2.png": "/portfolio-react/static/media/social2.6d57afdfbef78c4b604c.png",
+    "static/media/logo.png": "/portfolio-react/static/media/logo.8dab89166dce6aa4669b.png",
+    "static/media/revicons.eot": "/portfolio-react/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/portfolio-react/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/portfolio-react/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/logo.svg": "/portfolio-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/portfolio-react/index.html",
+    "main.e9ae6bd4.css.map": "/portfolio-react/static/css/main.e9ae6bd4.css.map",
+    "main.113328b7.js.map": "/portfolio-react/static/js/main.113328b7.js.map",
+    "453.f957a195.chunk.js.map": "/portfolio-react/static/js/453.f957a195.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9ae6bd4.css",
+    "static/js/main.113328b7.js"
+  ]
+}
